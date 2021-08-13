@@ -1,0 +1,34 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.div_pinkpanther{
+    float: left;
+}
+.div_harrypotter{
+    float: right;
+}
+.div_pink_img,.div_harry_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#pink,#harry{
+    font-size: 23px;
+    margin: 13px;
+}
+.play_button{
+    font-size: 25px;
+    width: 130px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
